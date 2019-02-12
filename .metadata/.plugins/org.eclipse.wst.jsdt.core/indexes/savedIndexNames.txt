@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\EL chito\Desktop\AEs\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1751088535.index
+2788781309.index
+2794650282.index
+1095568474.index
+153472160.index
+3097575836.index
+3457949310.index
