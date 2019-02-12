@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Mon Feb 11 20:06:51 CST 2019
-org.eclipse.jst.j2ee.server\:Equipo2Servicios=WEB-INF/lib/Equipo2Servicios.jar
-org.eclipse.jst.j2ee.server\:Equipo2Persistencia=WEB-INF/lib/Equipo2Persistencia.jar

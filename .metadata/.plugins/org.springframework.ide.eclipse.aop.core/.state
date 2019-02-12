@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="Equipo2Persistencia"/>
-<aop-project name="Equipo2Presentacion"/>
-<aop-project name="Equipo2Servicios"/>
-</aop-reference-model>
